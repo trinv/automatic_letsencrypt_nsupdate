@@ -69,3 +69,5 @@ Donating to EFF: https://eff.org/donate-le
 I hope this post will help someone. Feel free to comment and share.
 
 Bye!
+
+Source: https://blog.danman.eu/automatic-letsencrypt-wildcard-cert-renewal-with-nsupdate/
